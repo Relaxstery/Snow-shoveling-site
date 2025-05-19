@@ -1,0 +1,64 @@
+/* Basic Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4faff;
+  color: #333;
+  line-height: 1.6;
+  padding: 20px;
+}
+
+header {
+  background-color: #0077cc;
+  color: white;
+  text-align: center;
+  padding: 30px 10px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+section {
+  max-width: 800px;
+  margin: auto;
+  margin-bottom: 30px;
+  padding: 10px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  color: #004080;
+  margin-bottom: 10px;
+}
+
+ul {
+  margin: 10px 0 0 20px;
+}
+
+footer {
+  text-align: center;
+  padding: 15px;
+  font-size: 0.9em;
+  background-color: #e6f0ff;
+  color: #333;
+  margin-top: 40px;
+  border-top: 1px solid #ccc;
+}
+
+a {
+  color: #0077cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
